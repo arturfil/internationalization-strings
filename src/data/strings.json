@@ -1,0 +1,28 @@
+{
+    "eng": {
+        "greetings":{
+            "hello": "Hi",
+            "goodbye": "Good Bye"
+        },
+        "guardians": {
+            "guardians": "Guardians",
+            "dependents": "Dependents"
+        }
+
+    },
+    "spa": {
+        "greetings":{
+            "hello": "Hola",
+            "goodbye": "Adios"
+        },
+        "guardians": {
+            "guardians": "Tutores",
+            "dependents": "Dependientes"
+        }
+    },
+    "rus": {
+        "greetings": {
+            "hello": "Privet"
+        }
+    }
+}
